@@ -477,6 +477,7 @@ fm_elfinder:
 ## Plugins
 
 ElFinder comes with few plugins, like auto-resize, which can be enabled, by the following configuration:
+/ ! \ For the v5, use "binds" inside of "bind" and "plugins" inside of "plugin"
 
 ```yaml
 fm_elfinder:
